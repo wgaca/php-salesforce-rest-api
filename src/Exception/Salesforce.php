@@ -1,6 +1,6 @@
 <?php
 
-namespace bjsmasth\Salesforce\Exception;
+namespace wgaca\Salesforce\Exception;
 
 class Salesforce extends \Exception
 {

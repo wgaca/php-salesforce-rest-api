@@ -1,8 +1,8 @@
 <?php
 
-namespace bjsmasth\Salesforce\Authentication;
+namespace wgaca\Salesforce\Authentication;
 
-use bjsmasth\Salesforce\Exception\SalesforceAuthentication;
+use wgaca\Salesforce\Exception\SalesforceAuthentication;
 use GuzzleHttp\Client;
 
 class PasswordAuthentication implements AuthenticationInterface
